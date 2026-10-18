@@ -1,0 +1,27 @@
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Node / SvelteKit
+node_modules
+/build
+/.svelte-kit
+/package
+vite.config.js.timestamp-*
+vite.config.ts.timestamp-*
+
+# Rust / Tauri
+/src-tauri/target
+/src-tauri/gen/schemas
+
+# Env / secrets
+.env
+.env.*
+!.env.example
+
+# Editors / logs
+.vscode/*
+!.vscode/extensions.json
+.idea
+*.log
