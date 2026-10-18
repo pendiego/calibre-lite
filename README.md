@@ -58,4 +58,4 @@ Os dois aparelhos precisam estar na mesma rede local.
 
 ## Licença
 
-[MIT](LICENSE)
+[GPL-3.0](LICENSE)
